@@ -401,3 +401,11 @@ body {
     opacity: 1;
   }
 }
+
+.cardnumber,
+.cardname,
+.carddata,
+.cardcvv,
+::placeholder {
+  color: black;
+}
